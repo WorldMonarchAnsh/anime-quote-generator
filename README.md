@@ -16,9 +16,7 @@ A simple web app that displays random quotes from popular anime characters. Buil
 
 ## 🚀 Live Demo
 
-👉 [View on GitHub Pages](https://yourusername.github.io/anime-quote-generator)
-
-> Replace `yourusername` with your GitHub username
+👉 [View on GitHub Pages](https://worldmonarchansh.github.io/anime-quote-generator/)
 
 ## 🛠️ How to Use
 
