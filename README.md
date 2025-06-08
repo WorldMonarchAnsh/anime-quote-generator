@@ -29,7 +29,7 @@ A simple web app that displays random quotes from popular anime characters. Buil
 ## 🌟 Sample Quotes
 
 - *"Power comes in response to a need, not a desire."* – **Goku**
-- *"Fear is not evil. It tells you what your weakness is."* – **Gildarts Clive**
+- *"Idols are objects of worship, you know? They sparkle through the magic of lies. Lies are the most exquisite love, no?"* – **Ai Hoshino**
 
 ## 📌 Customization
 
